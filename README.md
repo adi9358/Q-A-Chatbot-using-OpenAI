@@ -58,7 +58,7 @@ Run the chatbot app using Streamlit:
 streamlit run app.py
 ```
 
-Open your browser and go to [http://localhost:8501](http://localhost:8501) to chat with the bot.
+Open your browser and go to [q-a-chatbot-openai.streamlit.app/) to chat with the bot.
 
 ---
 
